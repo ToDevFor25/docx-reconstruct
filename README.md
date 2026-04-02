@@ -1,1 +1,2 @@
-# docx-reconstruct
+python-docx==1.1.2
+lxml==5.2.1
