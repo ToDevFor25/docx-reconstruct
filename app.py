@@ -1,6 +1,3 @@
-python-docx==1.1.2
-lxml==5.2.1
-
 # app.py — Railway Python web server for DOCX reconstruction
 # Receives: original DOCX (base64) + rewritten text sections from Claude
 # Returns: reconstructed DOCX (base64) with original formatting preserved
